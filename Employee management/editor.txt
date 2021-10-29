@@ -211,14 +211,7 @@ class employee{
             }
         }   
  
-        void del(){                                //function for node deletion; user input taken
-            if(head == NULL) {
-                cout<<"\n\t\tList is empty"<<endl;
-                cout<<"\n\t\tAdd a new record\n\tPress Y or N:";
-                cin>>ch;
-                if(ch=='y'|| ch=='Y'){
-                    add_first();
-                    return;
+       
                 }
             }
             else{
