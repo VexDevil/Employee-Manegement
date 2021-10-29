@@ -1,8 +1,3 @@
-//DS SCE Project - Employee Database Management System
-//Authors: Shubham Harkare, Mayuresh Acharya, Ankit Mishra
-
-//A basic database using doubly linked list
-/*---------------------------------------------------------------------*/
 
 #include<iostream>
 #include<string.h>
